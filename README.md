@@ -2,36 +2,27 @@
 ## Objective of project
 This Power BI dashboard provides an in-depth analysis of Spotify listening habits, focusing on albums, artists, and tracks played over time.
 ## Dataset used
+
 - <a href="https://github.com/bhavini-18/Spotify-Dashboard-Power-BI/blob/main/spotify_history.csv">Dataset</a>
 
+## Question KPIs
+How many albums, artists, and tracks were played in total?
+- What is the total listening time (in minutes/hours) across all tracks?
+- What is the year-over-year change in albums, artists, and tracks played?
+- Which albums and artists have the highest number of plays?
+- What are the top 5 most played tracks?
+-  Which day of the week and hour of the day has the highest listening activity?
+- How does listening behavior differ between weekdays and weekends?
+- What is the average listening time per track and per album?
+- Which tracks have high average listening time but low frequency (or vice versa)?
+- Which platform (Android, iOS, Web Player, etc.) is used the most for listening?
+- 
 ## Key Sections & Insights:
-Albums Analysis
 
-Total Albums Played: 7,383
-Trend Analysis: Shows albums played over time, peaking around 2021-2022.
-Year-over-Year Comparison: 1,802 albums played in the latest year, a 20.19% decrease from the previous year.
-Listening Patterns: Breakdown of albums played on weekdays vs. weekends.
-Top Albums: The most played albums include The Beatles, Past Masters, and Abbey Road.
-Artists Analysis
 
-Total Artists Played: 3,835
-Trend Analysis: Artist plays increased significantly in recent years, peaking around 2021.
-Year-over-Year Comparison: 1,058 artists played in the latest year, a 24.43% decrease from the previous year.
-Listening Patterns: Majority of artist plays happen on weekends.
-Top Artists: The Beatles, The Killers, John Mayer, Bob Dylan, and Paul McCartney lead the charts.
-Tracks Analysis
+## Dashboard Images
+<img width="1315" height="872" alt="Screenshot (1)" src="https://github.com/user-attachments/assets/023d3757-4ce9-4a48-874a-b977626d05f7" />
+<img width="1320" height="869" alt="Screenshot (2 )" src="https://github.com/user-attachments/assets/313690cb-0aa6-412e-8d29-715088434bb2" />
+<img width="1316" height="866" alt="Screenshot (3 )" src="https://github.com/user-attachments/assets/dc91e57d-e8a9-4d06-95fc-a13b4a89762b" />
 
-Total Tracks Played: 12,724
-Trend Analysis: Track plays have steadily grown, peaking in 2021 with over 5,100 plays.
-Year-over-Year Comparison: 3,508 tracks played in the latest year, a 10.42% decrease from the previous year.
-Listening Patterns: Majority of track plays happen on weekends.
-Top Tracks: Ode to the Mets, In the Blood, and Dying Breed are the most played.
-Listening Behavior Analysis
 
-Scatter Plot Analysis: Visual representation of listening trends based on average listening time and track frequency.
-Heatmap: Displays listening hours versus days of the week, highlighting peak listening times.
-Detailed Data Table
-
-Shows an extensive breakdown of albums, artists, and tracks, including total play counts, listening duration, and average listening time per track.
-
-## Dashboard
